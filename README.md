@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Mateo
 
-<!--
-**mateodiazgomez/mateodiazgomez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Matemático | Apasionado de la Ciencia de Datos**
 
-Here are some ideas to get you started:
+Soy graduado en Matemáticas y actualmente estoy cursando un máster en Técnicas Estadísticas.  
+Me interesa todo el ciclo del dato: desde la obtención y limpieza de la información, hasta la construcción de modelos predictivos y su interpretación para la toma de decisiones.  
+Busco seguir desarrollándome profesionalmente en el ámbito de **Data Science, Machine Learning, Deep Learning e Inteligencia Artificial aplicada**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧠 Áreas de interés
+- Machine Learning y Deep Learning  
+- Modelado estadístico y predicción  
+- Procesamiento y análisis de datos  
+- Visualización y comunicación de resultados  
+- Inteligencia Artificial aplicada a problemas reales  
+
+---
+
+### 🧰 Lenguajes y herramientas
+- **Lenguajes:** Python, R, SQL, MATLAB, Fortran  
+- **Librerías y frameworks:** pandas, NumPy, scikit-learn, matplotlib, seaborn, ggplot2  
+- **Entornos:** Jupyter Notebook, RStudio, Git 
+
+---
+
+### 📂 Proyectos destacados
+
+
+---
+
+### 📫 Conecta conmigo
+- 💼 [LinkedIn](https://www.linkedin.com/in/mateo-d%C3%ADaz-g%C3%B3mez-788571375/)
+- 📧 diazgomezmateo37@gmail.com
+
+---
+
+> *“Los datos cuentan historias, pero la ciencia de datos les da sentido.”*
